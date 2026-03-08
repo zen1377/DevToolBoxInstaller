@@ -6,7 +6,7 @@ ascii_art = """
 | |   | | '_ \| | | \ \/ /  | || '_ \/ __| __/ _` | | |/ _ \ '__|
 | |___| | | | | |_| |>  <   | || | | \__ \ || (_| | | |  __/ |   
 |_____|_|_| |_|\__,_/_/\_\ |___|_| |_|___/\__\__,_|_|_|\___|_|   
-powered by @artemko_ua
+powered by @zen1377 (i lost access to old acount, where I post this script before)
 """
 
 def detect_package_manager():
